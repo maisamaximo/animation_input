@@ -7,7 +7,7 @@
 
 > Simple CSS animation input.
 
-### 🏠 [Homepage](https://codepen.io/maisamaximo/pen/eYYNQzK)
+### 🏠 [Code Pen](https://codepen.io/maisamaximo/pen/eYYNQzK)
 
 ![](animation_input.gif)
 
