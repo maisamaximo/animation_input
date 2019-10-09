@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Animation Input 🌱</h1>
+<h1 align="center">Welcome to Animation Input 💻</h1>
 <p>
   <a href="https://twitter.com/maisamaximo_" target="_blank">
     <img alt="Twitter: maisamaximo_" src="https://img.shields.io/twitter/follow/maisamaximo_.svg?style=social" />
@@ -7,7 +7,7 @@
 
 > Simple CSS animation input.
 
-### 🏠 [Code Pen](https://codepen.io/maisamaximo/pen/eYYNQzK)
+### ✏️️ [Code Pen](https://codepen.io/maisamaximo/pen/eYYNQzK)
 
 ![](animation_input.gif)
 
